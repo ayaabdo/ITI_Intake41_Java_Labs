@@ -1,0 +1,11 @@
+#txt{
+    -fx-font: bold 20pt "Arial";  
+    -fx-fill: rgb(48, 187, 187);  
+    -fx-alignment:center;  
+    
+}
+#rec { 
+    
+    -fx-fill: linear-gradient(from 100% 0% to 100% 100%, repeat,purple ,White,Pink );
+    -fx-stroke-width: 1;
+  }
